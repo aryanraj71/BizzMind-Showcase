@@ -1,0 +1,2 @@
+# Count the documentation as the repository language on GitHub.
+*.md linguist-detectable=true
